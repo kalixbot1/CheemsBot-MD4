@@ -3224,7 +3224,7 @@ for (let i of anu) {
 await sleep(1500)
 let btn = [{
 urlButton: {
-displayText: 'YouTube 🍓',
+displayText: '𝙘𝙤𝙣𝙩𝙖𝙘𝙩 𝙪𝙨🍓',
 url: `${global.websitex}`
 }
 }, {
@@ -3265,7 +3265,7 @@ for (let yoi of anu) {
 await sleep(1500)
 let btn = [{
 urlButton: {
-displayText: 'YouTube 🍓',
+displayText: '𝙘𝙤𝙣𝙩𝙖𝙘𝙩 𝙪𝙨🍓',
 url: `${global.websitex}`
 }
 }, {
@@ -3307,7 +3307,7 @@ if (!isCreator) return replay(mess.owner)
                     await sleep(1500)
                     let butoon = [{
                                 urlButton: {
-                                displayText: 'YouTube 🍓',
+                                displayText: '𝙘𝙤𝙣𝙩𝙖𝙘𝙩 𝙪𝙨🍓',
 url: `${global.websitex}`
                                 }
                             }, {
@@ -8779,7 +8779,7 @@ if (isBanChat) return reply(mess.banChat)
 XeonBotInc.sendMessage(from, { react: { text: `${global.reactmoji}`, key: m.key }})
 	                let btn = [{
                                 urlButton: {
-                                    displayText: 'YouTube 🍒',
+                                    displayText: '𝙘𝙤𝙣𝙩𝙖𝙘𝙩 𝙪𝙨 🍒',
                                     url: `${websitex}`
                                 }
                             }, {
@@ -8816,7 +8816,7 @@ XeonBotInc.sendMessage(from, { react: { text: `${global.reactmoji}`, key: m.key 
                         /////////XeonBotInc.send5ButMsg(m.chat, menulist, global.botname, btn)
                         } else if (setbot.templateDocument) {
                         let buttonmenu = [
-        	{ urlButton: { displayText: `YouTube 🍒`, url : `${websitex}` } },
+        	{ urlButton: { displayText: `𝙘𝙤𝙣𝙩𝙖𝙘𝙩 𝙪𝙨🍒`, url : `${websitex}` } },
             { urlButton: { displayText: `Script 🍜`, url: `${botscript}` } },
             { quickReplyButton: { displayText: `All Menu 🍱`, id: 'allmenu'} },
             { quickReplyButton: { displayText: `List Menu 🍢`, id: 'command'} },
